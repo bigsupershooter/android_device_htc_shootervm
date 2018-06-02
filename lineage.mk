@@ -10,7 +10,7 @@ $(call inherit-product, device/htc/shootervm/shootervm.mk)
 
 # Device naming
 PRODUCT_DEVICE := shootervm
-PRODUCT_NAME := cm_shootervm
+PRODUCT_NAME := lineage_shootervm
 PRODUCT_BRAND := virgin_mobile
 PRODUCT_MANUFACTURER := HTC
 PRODUCT_MODEL := Evo V 4G
